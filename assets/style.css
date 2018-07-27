@@ -13,5 +13,13 @@ ul li{
     color:white;
 }
 .about{
-    background: content-box radial-gradient(crimson, skyblue);
+    background: content-box radial-gradient(white, black);
+    /* background-color: #343a40; */
+    text-align: center;
+    height: 1000px;
+    
+}
+.navigation{
+    background-color: black;
+    height:75px;
 }
