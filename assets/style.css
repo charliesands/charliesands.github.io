@@ -1,28 +1,38 @@
-ul {
+/* ul {
     display: flex;
     list-style: none;
 }
 
 ul li{
     padding: 10px;
-}
+} */
 .name{
     color:white;
 }
 .site-links{
     color:white;
 }
-.about{
-    /* background: content-box radial-gradient(white, black); */
-    /* background-color: #343a40; */
-    /* text-align: center; */
-    /* height: 100vh; */
-    
-}
-.navigation{
+/* .about{
+    background: content-box radial-gradient(white, black);
+    background-color: #343a40;
+    text-align: center;
+    height: 100vh;
+}*/
+/* .navigation{
     background-color: black;
-    height:75px;
+    height:75px; */
 }
 h1{
     color: black;
+}
+.about{
+    background-color: black;
+}
+.home-bg{
+    background-color: rgb(5, 59, 29);
+    color: antiquewhite;
+    height: 90vh;
+    width: auto;
+
+    
 }
