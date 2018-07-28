@@ -13,13 +13,16 @@ ul li{
     color:white;
 }
 .about{
-    background: content-box radial-gradient(white, black);
+    /* background: content-box radial-gradient(white, black); */
     /* background-color: #343a40; */
-    text-align: center;
-    height: 1000px;
+    /* text-align: center; */
+    /* height: 100vh; */
     
 }
 .navigation{
     background-color: black;
     height:75px;
+}
+h1{
+    color: black;
 }
