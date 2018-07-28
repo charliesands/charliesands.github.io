@@ -5,22 +5,22 @@
 
 ul li{
     padding: 10px;
-} */
+} 
 .name{
     color:white;
 }
 .site-links{
     color:white;
 }
-/* .about{
+.about{
     background: content-box radial-gradient(white, black);
     background-color: #343a40;
     text-align: center;
     height: 100vh;
-}*/
-/* .navigation{
+}
+.navigation{
     background-color: black;
-    height:75px; */
+    height:75px;
 }
 h1{
     color: black;
@@ -28,11 +28,39 @@ h1{
 .about{
     background-color: black;
 }
+*/
 .home-bg{
     background-color: rgb(5, 59, 29);
     color: antiquewhite;
-    height: 90vh;
-    width: auto;
-
-    
+    height: 100vh;
+    width: auto; 
+    align-items: center;
+}
+.skills-bg{
+    background-color: black;
+    color: antiquewhite;
+    height: 70vh;
+    width: auto; 
+    align-items: center;
+}
+.contact-bg{
+    background-color: black;
+    color: antiquewhite;
+    height: 70vh;
+    width: auto; 
+    align-items: center;
+}
+.portfolio-bg{
+    background-color: rgb(5, 59, 29);
+    color: antiquewhite;
+    height: 70vh;
+    width: auto; 
+    align-items: center;
+}
+.nav-color{
+    background-color: rgb(5, 59, 29);
+    color: antiquewhite;
+}
+li{
+    color: antiquewhite;
 }
