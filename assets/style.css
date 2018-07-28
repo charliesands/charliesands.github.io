@@ -71,3 +71,6 @@ li{
     width: auto; 
     align-items: center;
 }
+.nav-link{
+    font-size: x-large;
+}
