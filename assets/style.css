@@ -39,7 +39,7 @@ h1{
 .skills-bg{
     background-color: black;
     color: antiquewhite;
-    height: 10vh;
+    height: auto;
     width: auto; 
     align-items: center;
 }
@@ -64,13 +64,13 @@ h1{
 li{
     color: antiquewhite;
 }
-.fonts-bg{
+/* .fonts-bg{
     background-color: black;
     color: antiquewhite;
     height: 40vh;
     width: auto; 
     align-items: center;
-}
+} */
 .nav-link{
     font-size: x-large;
 }
