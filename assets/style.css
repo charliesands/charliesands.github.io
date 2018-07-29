@@ -54,7 +54,7 @@ h1{
 .portfolio-bg{
     background-color: rgb(5, 59, 29);
     color: antiquewhite;
-    height: 70vh;
+    height: 50vh;
     min-height: fit-content;
     width: auto; 
     align-items: center;
@@ -76,3 +76,14 @@ li{
 .nav-link{
     font-size: x-large;
 }
+.projects{
+    align-content: space-between;
+}
+.skills-font{
+    /* justify-content: right; */
+}
+
+/* *{
+    Outline: 1px solid red;
+    }
+     */
