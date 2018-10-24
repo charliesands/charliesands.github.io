@@ -47,7 +47,7 @@ h1{
 .contact-bg{
     background-color: black;
     color: antiquewhite;
-    height: 70vh;
+    height: 40vh;
     width: auto; 
     align-items: center;
 }
@@ -64,6 +64,9 @@ h1{
     color: antiquewhite;
 }
 li{
+    color: antiquewhite;
+}
+a{
     color: antiquewhite;
 }
 /* .fonts-bg{
